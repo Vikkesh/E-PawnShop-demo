@@ -76,12 +76,13 @@ A comprehensive online pawnshop platform with advanced auctioning capabilities, 
 ## Screenshots
 
 > **📸 Demo Screenshots Available**
-> 
-> For a complete visual walkthrough of the E-Pawnshop Platform:
-> - [View All Screenshots](https://your-image-hosting-service.com/epawnshop-screenshots) 
-> - [Auction Interface](https://your-image-hosting-service.com/auction-demo)
-> - [Seller Dashboard](https://your-image-hosting-service.com/seller-demo)
-> - [Buyer Experience](https://your-image-hosting-service.com/buyer-demo)
+![Image](https://github.com/user-attachments/assets/71963cf8-5ba4-4344-9c80-dc32409439cf)
+![Image](https://github.com/user-attachments/assets/646ddcb7-5f76-4941-ae41-33273de6b321)
+![Image](https://github.com/user-attachments/assets/856cfcf9-6b8a-4bf5-939d-506ee9c1a7ad)
+![Image](https://github.com/user-attachments/assets/019127e1-4a7d-4b67-9548-c82186ff720f)
+![Image](https://github.com/user-attachments/assets/99d60973-927e-438f-9e99-d15669dff69d)
+![Image](https://github.com/user-attachments/assets/d940a94f-0a0d-41e3-8932-175218a10d18)
+![Image](https://github.com/user-attachments/assets/dd617b3e-4f20-465f-8082-9163cf5fd322)
 
 ### Marketplace Interface
 *Comprehensive product browsing with regular listings and auction categories*
